@@ -1,6 +1,8 @@
 import sys 
 
 
+
+##this function just reads the file and prints it out in terminal, i was using geeks4geeks just to learn this stuff:) 
 def readstudent_file(path):
 
     file_path = 'students.txt'
